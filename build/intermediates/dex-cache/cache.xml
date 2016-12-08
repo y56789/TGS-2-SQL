@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c75298b9840b1af518c5245a5d0a362460d57d32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_351f7e27018155e3a11c8ad3f1f7784010c4926a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_76c674e4943e2be8e0eec20c37ced6ab93948220\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="17f1fd4c6e11e1b0e5e29d77e48fdce4d0001924">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91746b9714cc5d81bc0611bf7782a6920832e910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_cca70f3d4670ef6a2a43426152ac5ac1bc0eeb4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_2cb1bd89c2ae2196969d50c9008be079339fccb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6d425132b2d4dea75fc407a15cc329613926808d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="17a8d94449f8342bc032401b8eb7bc790de25b9a">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a41b8eea8d6a4b19f2f72334b1f47898244359ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_810e792e86c620c7276b98255f5169d97c4681e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4252bb21378a6db3403511cd36ab785fc00f1a84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b6ba3fb3e2053ee87dfbcf040806b2b9ce7cadaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_922381dbe5a1f207aad8e1713f90b392a071a4f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_8458d66aa1651d452cc7ba9c02f0d6d8f4a549fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aa22d353b2a8e316b15600c8f81a56a6f8b14576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c191a6591a9ed047baf725c95dd6a87a326ebcfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7708e44247c3fd59a7a21007e387d602ed36baa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\MRidwan\AndroidStudioProjects\TGS-2-SQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_88d018b53aa5769fb35e22386371774d6f85cc16\classes.dex" />
+    </item>
+
+</items>
